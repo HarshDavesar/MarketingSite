@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #C3B1E1;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.head1 {
+    color: black;
+    text-align: center;
+    font-size: 2rem;
+    text-decoration: underline;
+    margin-top: -68px;
+
+}
+.logo{
+    margin-left:80px;
+    margin-top: 50px;
+}
+.img{
+    margin-top: 100px;
+border: 4px rgb(2, 253, 10) solid;
+width: 500px;
+height: 400px;
+}
+
+.para1{
+    /* background: skyblue; */
+    float:right;
+    margin-top:-450px;
+    height: 20rem;
+    width: 61rem;
+    margin-right: 20px;
+    font-size: 30px;
+    font-weight: 500;
+}
