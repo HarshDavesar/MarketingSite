@@ -66,7 +66,7 @@ h1 {
     padding: 11px;
     font-size: 100px;
     margin-right: 50rem;
-    margin-top: 10rem;
+    margin-top: 2rem;
     text-decoration: underline;
 
 }
@@ -81,7 +81,7 @@ h2 {
 }
 
 .para {
-    /* background: skyblue; */
+
     height: 10rem;
     width: 45rem;
     margin-left: 120px;
